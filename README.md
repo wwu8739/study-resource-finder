@@ -5,8 +5,8 @@ Repository: https://github.com/wwu8739/study-resource-finder
 Technologies used:HTML5, CSS3, JavaScript, Bootstrap, Internal JSON data, GitHub Pages
 Tagline: "Quickly locate helpful programming and robotics learning resources."
 User Story: I want to search and filter learning resources as a student studying robotics and programming so that I can quickly locate tutorials and documentation that are pertinent to my coursework.
-Links:Repository: https://github.com/wwu8739/study-resource-finder⁠�
-Live Application: https://wwu8739.github.io/study-resource-finder⁠�
+Links:Repository:https://github.com/wwu8739/study-resource-finder
+Live Application: https://wwu8739.github.io/study-resource-finder⁠
 Design Inspiration: This application's design was influenced by documentation websites like MDN. These websites employ card-based content organization, simple layouts, and easy navigation. This project modifies that strategy by employing Bootstrap cards to present educational materials in an orderly and readable manner.
 Code Example
 document.addEventListener("DOMContentLoaded", function(){
