@@ -1,7 +1,7 @@
 Study Resource Finder:
 A front-end web application that lets users search, filter, and explore educational tools related to robotics, web design and development, and programming.
 Authorship & Attribution: Wansheng Wu
-Repository: https://github.com/wwu8739/study-resource-finder⁠�
+Repository: https://github.com/wwu8739/study-resource-finder
 Technologies used:HTML5, CSS3, JavaScript, Bootstrap, Internal JSON data, GitHub Pages
 Tagline: "Quickly locate helpful programming and robotics learning resources."
 User Story: I want to search and filter learning resources as a student studying robotics and programming so that I can quickly locate tutorials and documentation that are pertinent to my coursework.
