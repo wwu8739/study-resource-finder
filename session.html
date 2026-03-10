@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Session Data</title>
+</head>
+
+<body>
+
+<h2>Session Information</h2>
+
+<p id="session"></p>
+
+<button onclick="clearSession()">Clear Session</button>
+
+<script>
+
+let user = sessionStorage.getItem("user");
+
+document.getElementById("session").innerText = "User session: " + user;
+
+function clearSession(){
+
+sessionStorage.clear();
+
+alert("Session cleared");
+
+}
+
+</script>
+
+</body>
+</html>
