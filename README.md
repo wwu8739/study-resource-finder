@@ -1,4 +1,4 @@
-Study Resource Finder
+Study Resource Finder:
 A front-end web application that lets users search, filter, and explore educational tools related to robotics, web design and development, and programming.
 Authorship & Attribution: Wansheng Wu
 Repository: https://github.com/wwu8739/study-resource-finder⁠�
